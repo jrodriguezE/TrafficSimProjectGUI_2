@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.6.1 (1997 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="31.0546500" minlon="-97.7431800" maxlat="31.0593500" maxlon="-97.7348600"/>
+ <node id="149067028" visible="true" version="2" changeset="2888129" timestamp="2009-10-18T20:39:26Z" user="woodpeck_fixbot" uid="147510" lat="31.0534550" lon="-97.7402340"/>
+ <node id="149067045" visible="true" version="2" changeset="2888129" timestamp="2009-10-18T20:39:26Z" user="woodpeck_fixbot" uid="147510" lat="31.0534150" lon="-97.7369380"/>
+ <node id="149209125" visible="true" version="2" changeset="2361338" timestamp="2009-09-03T17:26:02Z" user="woodpeck_fixbot" uid="147510" lat="31.0572150" lon="-97.7417600"/>
+ <node id="149209127" visible="true" version="2" changeset="2552916" timestamp="2009-09-21T01:34:24Z" user="woodpeck_fixbot" uid="147510" lat="31.0572760" lon="-97.7415310"/>
+ <node id="149209137" visible="true" version="2" changeset="2361338" timestamp="2009-09-03T17:26:02Z" user="woodpeck_fixbot" uid="147510" lat="31.0577740" lon="-97.7398990"/>
+ <node id="149209150" visible="true" version="2" changeset="2361338" timestamp="2009-09-03T17:26:02Z" user="woodpeck_fixbot" uid="147510" lat="31.0578520" lon="-97.7395320"/>
+ <node id="149209157" visible="true" version="2" changeset="2888129" timestamp="2009-10-18T20:52:39Z" user="woodpeck_fixbot" uid="147510" lat="31.0578120" lon="-97.7389980"/>
+ <node id="149209165" visible="true" version="2" changeset="2361338" timestamp="2009-09-03T17:26:02Z" user="woodpeck_fixbot" uid="147510" lat="31.0578540" lon="-97.7387080"/>
+ <node id="149209179" visible="true" version="2" changeset="2888129" timestamp="2009-10-18T20:52:39Z" user="woodpeck_fixbot" uid="147510" lat="31.0582700" lon="-97.7379000"/>
+ <node id="149209187" visible="true" version="2" changeset="2361338" timestamp="2009-09-03T17:26:02Z" user="woodpeck_fixbot" uid="147510" lat="31.0589430" lon="-97.7366410"/>
+ <node id="149209196" visible="true" version="2" changeset="2361338" timestamp="2009-09-03T17:26:02Z" user="woodpeck_fixbot" uid="147510" lat="31.0591930" lon="-97.7363050"/>
+ <node id="149209206" visible="true" version="2" changeset="2888129" timestamp="2009-10-18T20:52:39Z" user="woodpeck_fixbot" uid="147510" lat="31.0596120" lon="-97.7359310"/>
+ <node id="149209228" visible="true" version="3" changeset="20647019" timestamp="2014-02-18T22:51:55Z" user="ingalls" uid="305985" lat="31.0600386" lon="-97.7356654">
+  <tag k="highway" v="turning_circle"/>
+ </node>
+ <node id="149236370" visible="true" version="2" changeset="2552916" timestamp="2009-09-21T01:37:55Z" user="woodpeck_fixbot" uid="147510" lat="31.0579680" lon="-97.7376860"/>
+ <node id="149236381" visible="true" version="2" changeset="2888129" timestamp="2009-10-18T20:55:19Z" user="woodpeck_fixbot" uid="147510" lat="31.0576590" lon="-97.7374650"/>
+ <node id="149236395" visible="true" version="2" changeset="2888129" timestamp="2009-10-18T20:55:19Z" user="woodpeck_fixbot" uid="147510" lat="31.0575140" lon="-97.7374190"/>
+ <node id="149236474" visible="true" version="2" changeset="2361338" timestamp="2009-09-03T17:28:25Z" user="woodpeck_fixbot" uid="147510" lat="31.0554750" lon="-97.7374040"/>
+ <node id="149236491" visible="true" version="2" changeset="2552916" timestamp="2009-09-21T01:37:56Z" user="woodpeck_fixbot" uid="147510" lat="31.0552780" lon="-97.7372720"/>
+ <node id="149236496" visible="true" version="2" changeset="2888129" timestamp="2009-10-18T20:55:20Z" user="woodpeck_fixbot" uid="147510" lat="31.0552120" lon="-97.7371140"/>
+ <node id="149236502" visible="true" version="2" changeset="2552916" timestamp="2009-09-21T01:37:56Z" user="woodpeck_fixbot" uid="147510" lat="31.0552010" lon="-97.7368930"/>
+ <node id="149236503" visible="true" version="2" changeset="2361338" timestamp="2009-09-03T17:28:25Z" user="woodpeck_fixbot" uid="147510" lat="31.0551830" lon="-97.7352290"/>
+ <node id="149236508" visible="true" version="2" changeset="2552916" timestamp="2009-09-21T01:37:56Z" user="woodpeck_fixbot" uid="147510" lat="31.0551680" lon="-97.7345120"/>
+ <node id="149248300" visible="true" version="2" changeset="2361338" timestamp="2009-09-03T17:29:52Z" user="woodpeck_fixbot" uid="147510" lat="31.0539550" lon="-97.7369160"/>
+ <node id="149249276" visible="true" version="2" changeset="2888129" timestamp="2009-10-18T20:56:32Z" user="woodpeck_fixbot" uid="147510" lat="31.0535770" lon="-97.7444150"/>
+ <node id="149268643" visible="true" version="2" changeset="2552916" timestamp="2009-09-21T01:43:07Z" user="woodpeck_fixbot" uid="147510" lat="31.0631850" lon="-97.7442780"/>
+ <node id="149305401" visible="true" version="2" changeset="2888129" timestamp="2009-10-18T21:03:33Z" user="woodpeck_fixbot" uid="147510" lat="31.0543630" lon="-97.7444760"/>
+ <node id="149305412" visible="true" version="2" changeset="2888129" timestamp="2009-10-18T21:03:33Z" user="woodpeck_fixbot" uid="147510" lat="31.0559740" lon="-97.7446140"/>
+ <node id="149305419" visible="true" version="2" changeset="2552916" timestamp="2009-09-21T01:49:34Z" user="woodpeck_fixbot" uid="147510" lat="31.0561700" lon="-97.7445370"/>
+ <node id="149305423" visible="true" version="2" changeset="2361338" timestamp="2009-09-03T17:35:32Z" user="woodpeck_fixbot" uid="147510" lat="31.0563110" lon="-97.7443620"/>
+ <node id="149305444" visible="true" version="2" changeset="2888129" timestamp="2009-10-18T21:03:33Z" user="woodpeck_fixbot" uid="147510" lat="31.0575310" lon="-97.7419050"/>
+ <node id="149348172" visible="true" version="2" changeset="2361338" timestamp="2009-09-03T17:39:38Z" user="woodpeck_fixbot" uid="147510" lat="31.0557350" lon="-97.7352680"/>
+ <node id="149348185" visible="true" version="2" changeset="2552916" timestamp="2009-09-21T01:57:16Z" user="woodpeck_fixbot" uid="147510" lat="31.0579690" lon="-97.7355020"/>
+ <node id="149348191" visible="true" version="2" changeset="2552916" timestamp="2009-09-21T01:57:16Z" user="woodpeck_fixbot" uid="147510" lat="31.0585920" lon="-97.7357710"/>
+ <node id="149401657" visible="true" version="2" changeset="2361338" timestamp="2009-09-03T17:48:11Z" user="woodpeck_fixbot" uid="147510" lat="31.0536290" lon="-97.7402950"/>
+ <node id="149447096" visible="true" version="2" changeset="2552916" timestamp="2009-09-21T02:30:39Z" user="woodpeck_fixbot" uid="147510" lat="31.0552430" lon="-97.7393420"/>
+ <node id="149447111" visible="true" version="2" changeset="2552916" timestamp="2009-09-21T02:30:40Z" user="woodpeck_fixbot" uid="147510" lat="31.0569550" lon="-97.7395810"/>
+ <way id="15106444" visible="true" version="3" changeset="20647019" timestamp="2014-02-18T22:51:40Z" user="ingalls" uid="305985">
+  <nd ref="149209125"/>
+  <nd ref="149209127"/>
+  <nd ref="149209137"/>
+  <nd ref="149209150"/>
+  <nd ref="149209157"/>
+  <nd ref="149209165"/>
+  <nd ref="149209179"/>
+  <nd ref="149209187"/>
+  <nd ref="149209196"/>
+  <nd ref="149209206"/>
+  <nd ref="149209228"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Briarcroft Lane"/>
+  <tag k="tiger:zip_left" v="76542"/>
+  <tag k="tiger:zip_right" v="76542"/>
+ </way>
+ <way id="15107882" visible="true" version="4" changeset="20647019" timestamp="2014-02-18T22:51:46Z" user="ingalls" uid="305985">
+  <nd ref="149209179"/>
+  <nd ref="149236370"/>
+  <nd ref="149236381"/>
+  <nd ref="149236395"/>
+  <nd ref="149236474"/>
+  <nd ref="149236491"/>
+  <nd ref="149236496"/>
+  <nd ref="149236502"/>
+  <nd ref="149236503"/>
+  <nd ref="149236508"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Lonely Oaks Lane"/>
+ </way>
+ <way id="15109333" visible="true" version="3" changeset="20647019" timestamp="2014-02-18T22:51:44Z" user="ingalls" uid="305985">
+  <nd ref="149067045"/>
+  <nd ref="149248300"/>
+  <nd ref="149236502"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Green Oaks Drive"/>
+  <tag k="name_1" v="Green Oaks Road"/>
+  <tag k="tiger:zip_left" v="76542"/>
+  <tag k="tiger:zip_right" v="76542"/>
+ </way>
+ <way id="15113683" visible="true" version="3" changeset="20647019" timestamp="2014-02-18T22:51:53Z" user="ingalls" uid="305985">
+  <nd ref="149249276"/>
+  <nd ref="149305401"/>
+  <nd ref="149305412"/>
+  <nd ref="149305419"/>
+  <nd ref="149305423"/>
+  <nd ref="149305444"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Wells Fargo Road"/>
+  <tag k="tiger:zip_left" v="76542"/>
+  <tag k="tiger:zip_right" v="76542"/>
+ </way>
+ <way id="15115836" visible="true" version="3" changeset="20647019" timestamp="2014-02-18T22:51:41Z" user="ingalls" uid="305985">
+  <nd ref="149236503"/>
+  <nd ref="149348172"/>
+  <nd ref="149348185"/>
+  <nd ref="149348191"/>
+  <nd ref="149209196"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Chimney Rock Road"/>
+  <tag k="tiger:zip_left" v="76542"/>
+  <tag k="tiger:zip_right" v="76542"/>
+ </way>
+ <way id="15120320" visible="true" version="3" changeset="20647019" timestamp="2014-02-18T22:51:53Z" user="ingalls" uid="305985">
+  <nd ref="149067028"/>
+  <nd ref="149401657"/>
+  <nd ref="149209125"/>
+  <nd ref="149305444"/>
+  <nd ref="149268643"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Turkey Trot Road"/>
+  <tag k="tiger:zip_left" v="76542"/>
+  <tag k="tiger:zip_right" v="76542"/>
+ </way>
+ <way id="15124569" visible="true" version="4" changeset="20647019" timestamp="2014-02-18T22:51:47Z" user="ingalls" uid="305985">
+  <nd ref="149447096"/>
+  <nd ref="149447111"/>
+  <nd ref="149209137"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Mighty Oak Lane"/>
+ </way>
+</osm>
